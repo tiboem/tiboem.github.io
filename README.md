@@ -52,9 +52,11 @@ Uitleg over gratis hosting
 <!-- CONTACT -->
 ## Contactgegevens
 
-Tibo Geeraerts - [@geeraerts_tibo](https://twitter.com/geeraerts_tibo) - [Tibo Geeraerts](https://www.linkedin.com/in/tibo-geeraerts/) - r0882113@student.thomasmore.be
-Ruben Pinxten - [@RubenPinxten](https://twitter.com/RubenPinxten) - [Ruben Pinxten](https://www.linkedin.com/in/ruben-pinxten/) - r0887893@student.thomasmore.be
-Matthias Theys - [@matthias_theys](https://twitter.com/matthias_theys) - [Matthias Theys](https://www.linkedin.com/in/matthias-theys-454458200/) - r0895598@student.thomasmore.be
+Tibo Geeraerts - [Tibo Geeraerts](http://geeraertstibo.be/) - r0882113@student.thomasmore.be
+<br />
+Ruben Pinxten - [Ruben Pinxten](https://rubenpinxten.com/) - r0887893@student.thomasmore.be
+<br />
+Matthias Theys - [Matthias Theys](https://matthiastheys.github.io/) - r0895598@student.thomasmore.be
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
