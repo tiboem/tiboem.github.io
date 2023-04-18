@@ -62,7 +62,7 @@ Matthias Theys - [@matthias_theys](https://twitter.com/matthias_theys) - [Matthi
 <!-- MARKDOWN LINKS & IMAGES -->
 [Html-logo]: https://img.shields.io/badge/HTML-E54C21?style=for-the-badge&logo=html5&logoColor=white
 [Html-url]: https://www.w3schools.com/html/
-[css-logo]: https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=
+[css-logo]: https://img.shields.io/static/v1?style=for-the-badge&message=CSS&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=
 [css-url]: https://www.w3schools.com/css/
 
 [html-code]: images/html-code.jpg
