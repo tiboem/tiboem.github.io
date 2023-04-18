@@ -23,7 +23,7 @@
 ## Over dit project
 
 Dit project is voor de trainingssessie op Don Bosco Haacht. Deze sessie is ontstaan door een opdracht voor het vak Professional Skills 2.
-Tijdens deze sessie geven wij 3 uitleg over hoe de studenten Industrieële ICT een basis website kunnen ontwikkelen en hosten
+Tijdens deze sessie geven wij 3 uitleg over hoe de studenten Industrieële ICT een basis website kunnen ontwikkelen en hosten.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
