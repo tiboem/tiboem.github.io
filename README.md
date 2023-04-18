@@ -16,7 +16,8 @@
 
 ## Gebouwd met :
 
-[![Html][Html.html]][Html-url]
+[![Html][Html-logo]][Html-url]
+[![Css][css-logo]][css-url]
 
 <!-- Over dit project -->
 ## Over dit project
